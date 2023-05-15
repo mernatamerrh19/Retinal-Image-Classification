@@ -6,7 +6,9 @@ https://drive.google.com/drive/folders/1I6vKvTMGSPbvKOxqyyDXdAJRIKgsYj0F?usp=sha
 Then preprosessing step:
 After resizing all images in (224,224), then normalizing the green channel -only green channel, the other channels may cause loss of data-
 then save the preprocessed images in Processed file
+
 ![Screenshot (478)](https://github.com/mernatamerrh19/Retinal-Image-Classification/assets/73619098/de1465ee-fc7a-4ce0-84ce-275517563d11)
+
 
 After that, we extract the features in the .npy files shown using a pre-trained model -ResNet152V2 Model-
 library "tensorflow.keras"
