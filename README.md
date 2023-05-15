@@ -2,6 +2,7 @@
 We chosen google colab to avoid consuming the time of libraries' installation, just downloading the data in a spesific format:
 https://drive.google.com/drive/folders/1I6vKvTMGSPbvKOxqyyDXdAJRIKgsYj0F?usp=sharing
 ![Screenshot (477)](https://github.com/mernatamerrh19/Retinal-Image-Classification/assets/73619098/d7f042e1-65d7-4fa2-a411-61e258f512e1)
+
 also allow us to show our updates without sending alot of updated versions.
 
 Then preprosessing step:
